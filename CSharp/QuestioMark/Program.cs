@@ -6,4 +6,4 @@ Console.WriteLine(a + b == 0.3 ? "true" : "false");
 
 decimal c = 0.1M;
 decimal d = 0.2M;
-Console.WriteLine(c + d == 0.3M);
+Console.WriteLine(c + d == 0.3M ? "true" : "false");
