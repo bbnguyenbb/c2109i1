@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\QuestioMark\\QuestioMark.csproj",
-      "projectName": "QuestioMark",
-      "projectPath": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\QuestioMark\\QuestioMark.csproj",
+      "projectUniqueName": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\RegexTryParse\\RegexTryParse.csproj",
+      "projectName": "RegexTryParse",
+      "projectPath": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\RegexTryParse\\RegexTryParse.csproj",
       "packagesPath": "C:\\Users\\khacnguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\QuestioMark\\obj\\",
+      "outputPath": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\RegexTryParse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khacnguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",

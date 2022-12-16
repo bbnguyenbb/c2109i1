@@ -13,8 +13,10 @@ internal class UseRefOut
     public void ShowInfo() =>
         Console.WriteLine("thông tin về class này");
 
-    public static void ChangeNumber(ref int  a, ref int b)
+    public static void ChangeNumber(out int  a, out int b)
     {
+        a = 10;
+        b = 5;
         int tam = a;
         a = b;
         b = tam;

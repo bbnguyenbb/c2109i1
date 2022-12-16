@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestioMark", "QuestioMark\QuestioMark.csproj", "{D4B1FAF3-9DA2-4C57-9CC9-E35D5FDF6D2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestioMark", "QuestioMark\QuestioMark.csproj", "{D4B1FAF3-9DA2-4C57-9CC9-E35D5FDF6D2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{02BF80F8-0363-4FFF-8698-F5EC118A7884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{02BF80F8-0363-4FFF-8698-F5EC118A7884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachWhile", "ForeachWhile\ForeachWhile.csproj", "{972FE004-3CC8-43BF-A9DB-C804BD3EC804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForeachWhile", "ForeachWhile\ForeachWhile.csproj", "{972FE004-3CC8-43BF-A9DB-C804BD3EC804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOut", "RefOut\RefOut.csproj", "{25CFFFBA-CCD5-45ED-A706-B75DFDA270FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefOut", "RefOut\RefOut.csproj", "{25CFFFBA-CCD5-45ED-A706-B75DFDA270FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexTryParse", "RegexTryParse\RegexTryParse.csproj", "{AAB55439-C27A-44EE-B267-69BD773F9D1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{25CFFFBA-CCD5-45ED-A706-B75DFDA270FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25CFFFBA-CCD5-45ED-A706-B75DFDA270FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25CFFFBA-CCD5-45ED-A706-B75DFDA270FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB55439-C27A-44EE-B267-69BD773F9D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB55439-C27A-44EE-B267-69BD773F9D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB55439-C27A-44EE-B267-69BD773F9D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB55439-C27A-44EE-B267-69BD773F9D1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

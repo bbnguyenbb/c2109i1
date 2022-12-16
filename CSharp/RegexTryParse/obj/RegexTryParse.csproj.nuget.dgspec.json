@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\ForeachWhile\\ForeachWhile.csproj": {}
+    "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\RegexTryParse\\RegexTryParse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\ForeachWhile\\ForeachWhile.csproj": {
+    "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\RegexTryParse\\RegexTryParse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\ForeachWhile\\ForeachWhile.csproj",
-        "projectName": "ForeachWhile",
-        "projectPath": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\ForeachWhile\\ForeachWhile.csproj",
+        "projectUniqueName": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\RegexTryParse\\RegexTryParse.csproj",
+        "projectName": "RegexTryParse",
+        "projectPath": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\RegexTryParse\\RegexTryParse.csproj",
         "packagesPath": "C:\\Users\\khacnguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\ForeachWhile\\obj\\",
+        "outputPath": "C:\\Users\\khacnguyen\\source\\repos\\c2109i1\\CSharp\\RegexTryParse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khacnguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
