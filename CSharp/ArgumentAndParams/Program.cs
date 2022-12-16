@@ -26,3 +26,11 @@ argu.Show(10);
 argu.Show(10, 5);
 argu.Show(10, 5, 4);
 argu.Show(b:10, c:4);
+
+
+//==========
+argu.SumParam(1);
+argu.SumParam(1,2,3,4,6);
+
+int[] mang={1,2,3,4,5,6};
+argu.SumParam(mang);
