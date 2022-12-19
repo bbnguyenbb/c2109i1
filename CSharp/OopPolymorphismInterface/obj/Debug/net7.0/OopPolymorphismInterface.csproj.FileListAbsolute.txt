@@ -1,0 +1,15 @@
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.exe
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.deps.json
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.runtimeconfig.json
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.pdb
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.csproj.AssemblyReference.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.AssemblyInfoInputs.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.AssemblyInfo.cs
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.csproj.CoreCompileInputs.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\refint\OopPolymorphismInterface.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.pdb
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.genruntimeconfig.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\ref\OopPolymorphismInterface.dll
