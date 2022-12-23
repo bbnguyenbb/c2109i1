@@ -1,0 +1,15 @@
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\bin\Debug\net7.0\DelegateCsharp.exe
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\bin\Debug\net7.0\DelegateCsharp.deps.json
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\bin\Debug\net7.0\DelegateCsharp.runtimeconfig.json
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\bin\Debug\net7.0\DelegateCsharp.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\bin\Debug\net7.0\DelegateCsharp.pdb
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\DelegateCsharp.csproj.AssemblyReference.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\DelegateCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\DelegateCsharp.AssemblyInfoInputs.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\DelegateCsharp.AssemblyInfo.cs
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\DelegateCsharp.csproj.CoreCompileInputs.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\DelegateCsharp.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\refint\DelegateCsharp.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\DelegateCsharp.pdb
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\DelegateCsharp.genruntimeconfig.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\DelegateCsharp\obj\Debug\net7.0\ref\DelegateCsharp.dll
