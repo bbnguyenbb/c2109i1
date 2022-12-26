@@ -1,0 +1,15 @@
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\bin\Debug\net7.0\ExeciseOop.exe
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\bin\Debug\net7.0\ExeciseOop.deps.json
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\bin\Debug\net7.0\ExeciseOop.runtimeconfig.json
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\bin\Debug\net7.0\ExeciseOop.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\bin\Debug\net7.0\ExeciseOop.pdb
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ExeciseOop.csproj.AssemblyReference.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ExeciseOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ExeciseOop.AssemblyInfoInputs.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ExeciseOop.AssemblyInfo.cs
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ExeciseOop.csproj.CoreCompileInputs.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ExeciseOop.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\refint\ExeciseOop.dll
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ExeciseOop.pdb
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ExeciseOop.genruntimeconfig.cache
+C:\Users\khacnguyen\source\repos\c2109i1\CSharp\ExeciseOop\obj\Debug\net7.0\ref\ExeciseOop.dll
